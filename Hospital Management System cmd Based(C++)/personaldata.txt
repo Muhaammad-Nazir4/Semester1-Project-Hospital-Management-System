@@ -1,0 +1,4 @@
+NAZIR , ASHRAF  , MALE
+AHMAD , SHAFIQU , MALE
+ALI , AHMAD , MALE
+ttt , kkk , male
